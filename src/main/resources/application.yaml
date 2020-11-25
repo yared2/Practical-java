@@ -1,0 +1,4 @@
+logging:  pattern:    console: "[Practical Java]%lr(%d{HH:mm:ss.SSS}){faint}%clr(${LOG_LEVEL_PATTERN:%5p})%clr(---){faint} %clr(%-40.401)"
+server:
+  port: 8888
+  
